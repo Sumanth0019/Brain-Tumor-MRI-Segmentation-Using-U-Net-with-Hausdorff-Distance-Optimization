@@ -43,8 +43,8 @@ Develop a deep learning-based method to improve the accuracy and boundary precis
 
 Two public MRI datasets were used for training and validation:
 
-- **Brain Tumor Segmentation Dataset**: Contains labeled MRI scans for pixel-wise tumor segmentation.
-- **Brain Tumor Classification MRI Dataset**: Includes images of glioma, meningioma, pituitary tumors, and non-tumor cases.
+- [Brain Tumor Segmentation Dataset](https://www.kaggle.com/datasets/atikaakter11/brain-tumor-segmentation-dataset): Contains labeled MRI scans for pixel-wise tumor segmentation.
+- [Brain Tumor Classification MRI Dataset](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri): Includes images of glioma, meningioma, pituitary tumors, and non-tumor cases.
 
 ---
 
